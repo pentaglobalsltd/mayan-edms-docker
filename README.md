@@ -547,3 +547,6 @@ The stack will also create four volumes to store the data of each container. The
 - mayan_broker - The broker volume, in this case RabbitMQ.
 - mayan_db - The database volume, in this case Postgres.
 - mayan_results - The celery result backend volume, in this case Redis.
+
+
+<!-- Security scan triggered at 2026-08-31 17:12:58 -->
