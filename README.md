@@ -549,12 +549,7 @@ The stack will also create four volumes to store the data of each container. The
 - mayan_results - The celery result backend volume, in this case Redis.
 
 
-<!-- Security scan triggered at 2026-08-31 17:12:58 -->
 
-<!-- Security scan triggered at 2026-08-31 16:56:49 -->
 
-<!-- Security scan triggered at 2026-08-31 18:44:25 -->
 
-<!-- Security scan triggered at 2026-09-02 07:20:06 -->
 
-<!-- Security scan triggered at 2026-09-02 07:20:33 -->
